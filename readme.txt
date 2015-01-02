@@ -11,7 +11,7 @@ This is a plugin that adds legal and privacy policy pages to your website.
 
 == Description ==
 
-This is a plugin that adds legal and privacy policy pages to your website. Each page is already pre-populated with your website's name and URL.
+This is a plugin that automatically adds legal and privacy policy pages to your website. Each page is already pre-populated with your website's name and URL. All you need to do is install the plugin and each page is automatically created, no extra lifting by you.
 
 **Pages included**
 
